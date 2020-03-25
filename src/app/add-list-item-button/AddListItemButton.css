@@ -1,0 +1,27 @@
+.input_task
+{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.input_task input
+{
+    border-radius:10px;
+    width: 100%;
+    padding: 15px;
+    border: 2px solid rgba(150, 150, 150,.3);
+    background: #EADCDC;
+    width: 80%;
+}
+
+#addTask{
+    border-radius: 10px;
+    border: 2px solid rgba(150, 150, 150,.3);
+    padding: 12px 10px;
+    font-size: 1.05em;
+    cursor: pointer;
+    background: #EADCDC;
+    color: rgba(0, 0, 0,.5);
+}

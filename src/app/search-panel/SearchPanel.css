@@ -1,0 +1,11 @@
+.search_task{
+    width: 65%;
+}
+.search_task input{
+    border-radius:10px; 
+    width: 100%;
+    padding: 12px;
+    border: 2px solid rgba(150, 150, 150,.3);
+    background: #EADCDC;
+   
+}

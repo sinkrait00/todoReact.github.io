@@ -1,0 +1,21 @@
+.edit_input{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;  
+}
+.edit_task{
+    background: #E17076!important;
+}
+.edit_input input{
+    border: none;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+    width: 80%;
+}
+
+.fa-check{
+    color: #5CC794;
+    font-size: 1.5em;
+}
