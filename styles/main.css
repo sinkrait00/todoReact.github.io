@@ -1,0 +1,42 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+input{
+    font-family: 'Montserrat', sans-serif;
+}
+a:active, a:focus,
+input, textarea,
+input:active, textarea:active,
+button, button:active
+{ outline: none; }
+:focus {outline:none;}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: url(../img/bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+    font-size: 18px;
+    overflow-x: hidden;
+}
+
+
+ul{
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
